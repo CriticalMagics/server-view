@@ -1,2 +1,2 @@
-# server-view
+# CriticalMagics
 View anything and everything regarding the CriticalMagics server!
